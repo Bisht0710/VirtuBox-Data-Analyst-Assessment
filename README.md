@@ -78,6 +78,12 @@ Assessment Google Sheet:
 
 https://docs.google.com/spreadsheets/d/1MKXQZKOsUXKsoH00o7k9UDQOtX19kvdUZ7_4h93-oEM/edit?gid=1925713468#gid=1925713468
 
+## Complete Assessment Files
+
+Google Drive folder containing the complete assessment deliverables:
+
+https://drive.google.com/drive/u/0/folders/1EmF4hSg19vXFSj0WGx0a4ozYxwfjqaPB
+
 
 ## Presentation
 
